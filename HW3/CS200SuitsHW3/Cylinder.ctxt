@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Cylinder
+comment1.params=h\ d
+comment1.target=Cylinder(double,\ double)
+comment10.params=
+comment10.target=void\ printoutput()
+comment2.params=amount
+comment2.target=void\ setWeight(double)
+comment3.params=
+comment3.target=double\ getCylinderWeight()
+comment4.params=
+comment4.target=double\ calculateVolume()
+comment5.params=
+comment5.target=double\ calculateDensity()
+comment6.params=
+comment6.target=double\ calculateBestFit()
+comment7.params=
+comment7.target=double\ calculateWaste()
+comment8.params=
+comment8.target=double\ getCylinderHeight()
+comment9.params=
+comment9.target=double\ getCylinderDiameter()
+numComments=11

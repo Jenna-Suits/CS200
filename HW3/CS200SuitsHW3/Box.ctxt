@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=l\ w\ h
+comment1.target=Box(double,\ double,\ double)
+comment10.params=
+comment10.target=double\ getBoxHeight()
+comment11.params=
+comment11.target=void\ printoutput()
+comment2.params=amount
+comment2.target=void\ setWeight(double)
+comment3.params=
+comment3.target=double\ getBoxWeight()
+comment4.params=
+comment4.target=double\ calculateVolume()
+comment5.params=
+comment5.target=double\ calculateDensity()
+comment6.params=
+comment6.target=double\ calculateBestFit()
+comment7.params=
+comment7.target=double\ calculateWaste()
+comment8.params=
+comment8.target=double\ getBoxLength()
+comment9.params=
+comment9.target=double\ getBoxWidth()
+numComments=12

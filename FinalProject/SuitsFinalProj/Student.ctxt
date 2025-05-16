@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=allList
+comment1.target=void\ getInfo(java.util.ArrayList)
+comment2.params=allList
+comment2.target=void\ printInfo(java.util.ArrayList)
+numComments=3

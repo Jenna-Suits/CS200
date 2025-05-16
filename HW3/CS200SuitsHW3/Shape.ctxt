@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=
+comment1.target=double\ calculateVolume()
+comment2.params=
+comment2.target=double\ calculateDensity()
+comment3.params=
+comment3.target=double\ calculateBestFit()
+comment4.params=
+comment4.target=double\ calculateWaste()
+comment5.params=
+comment5.target=void\ printoutput()
+numComments=6
